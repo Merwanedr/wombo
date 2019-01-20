@@ -1,5 +1,5 @@
 # Wombo
-## Apply simple filter from command line using Python
+## Apply simple filters to images from command line using Python
 
 ### Install
 ````bash
